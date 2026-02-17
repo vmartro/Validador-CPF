@@ -53,11 +53,12 @@ A validação segue o algoritmo oficial da Receita Federal:
 ```
 ValidadorCPFCSharp/
 ├── ValidadorCPFCSharp.cs   # Código-fonte principal
-└── README.md               # Este arquivo
+└── README.md               # Leia-me
+└── LICENSE                 # Licença MIT
 ```
 
 ---
 
 ## Licença
 
-Distribuído livremente para fins educacionais.
+*Distribuído livremente para fins educacionais.*
